@@ -8,4 +8,4 @@ _**Application Screens**_
 
 _**Application Video**_
 
-![](./content/animation.git)
+![](./content/animation.gif)
